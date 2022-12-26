@@ -1,5 +1,5 @@
 # pyReport
-Simple module / script that can be used to generate HTML reports for tests. Using BeautifulSoup
+Simple module / script that can be used to generate HTML reports for tests. Using BeautifulSoup.
 
 
 <h1>Instruction</h1>
@@ -13,4 +13,6 @@ Simple module / script that can be used to generate HTML reports for tests. Usin
 <p>In this situation, if the test case is as expected then it will be reported on the HTML file as a pass, if it fails then it will be reported on the html file as a Fail and a reason can be specified for the failure</p>
 
 <h1>The HTML Report</h1>
-<p></p>
+<p>This is where all the results will be shown</p>
+<img src="https://user-images.githubusercontent.com/98666468/209577887-d5462674-c98e-4aea-8feb-b11dcb28d068.png"/>
+
