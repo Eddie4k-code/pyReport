@@ -3,7 +3,9 @@ Simple module / script that can be used to generate HTML reports for tests. Usin
 
 
 <h1>Instruction</h1>
-<li>Create a Report HTML File</li>
+<li>Create a Report object - test = Report(Filename, path)</li>
+<li>Generate the HTML Report File - .startReport()</li>
+<li>Add a test case to the report and the result - .reportTestCase(Test Case Name, pass/fail, Reason(Optional))</li>
 
 <h1>Example</h1>
 <p>Testing the function add which will add two numbers</p>
