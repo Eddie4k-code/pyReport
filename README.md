@@ -2,7 +2,7 @@
 Simple module / script that can be used to generate HTML reports for tests.
 
 Dependencies - 
-<li>BeautifuLSoup (bs4)</li>
+<li>BeautifulSoup (bs4)</li>
 
 <h1>Instruction</h1>
 <li>Create a Report object - test = Report(Filename, path)</li>
