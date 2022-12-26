@@ -9,7 +9,7 @@ Simple module / script that can be used to generate HTML reports for tests. Usin
 
 <h1>Example</h1>
 <p>Testing the function add which will add two numbers</p>
-<img src="![image](https://user-images.githubusercontent.com/98666468/209576410-6b5496f2-54e8-4393-a6e6-a63e7e8496dc.png)" />
+<img src="https://user-images.githubusercontent.com/98666468/209576410-6b5496f2-54e8-4393-a6e6-a63e7e8496dc.png" />
 <p>In this situation, if the test case is as expected then it will be reported on the HTML file as a pass, if it fails then it will be reported on the html file as a Fail and a reason can be specified for the failure</p>
 
 <h1>The HTML Report</h1>
